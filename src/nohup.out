@@ -1,0 +1,8 @@
+sudo: nodemon: command not found
+sudo: nodemon: command not found
+[33m[nodemon] 1.8.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node app app.js`[39m
+[0mPOST /reports [32m201 [0m101.854 ms - 115[0m
+[0mGET /reports [32m200 [0m89.486 ms - 625[0m
